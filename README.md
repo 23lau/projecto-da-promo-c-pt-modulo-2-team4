@@ -49,4 +49,6 @@ El objetivo principal era consolidar nuestros conocimientos tanto en Python como
   
 
    ### Por último, Si deseas conectar o aprender más sobre este proyecto, no dudes en ponerte en contanto con nosotras!
-      ### AQUÍ TIENES LA PRESENTACIÓN: https://www.canva.com/design/DAGZBH4dt-o/0yR7fH6umaIHplgJ-pJ_bg/edit
+  
+      ### AQUÍ TIENES LA PRESENTACIÓN:
+  https://www.canva.com/design/DAGZBH4dt-o/0yR7fH6umaIHplgJ-pJ_bg/edit
